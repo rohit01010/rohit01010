@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Bhagat</h1>
-<h3 align="left">A passionate Front End Web Developer.</h3>
+<h3 align="left">A CSE Student at IIT Madras, Passionate Front End Web Developer and a Competitive Coding Enthusiast.</h3>
 
 <li align="left"> 👨‍💻 All of my projects are available at <a href="https://github.com/rohit01010">github.com/rohit01010</a></li>
 
