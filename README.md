@@ -12,6 +12,9 @@
 <li align="left"> Technologies I am Familar with : </b></li><br/><br/>
 
 <p align="left">
+  <img src="https://tlabglobal.com/wp-content/uploads/2019/03/C-language.png" alt="C" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40"/>
+  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="30" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/>
