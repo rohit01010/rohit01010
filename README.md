@@ -9,7 +9,7 @@
 
 <li align="left"> 💬 Ask me about <b> C, C++, HTML5, CSS3, JAVASCRIPT, React Js, PHP, MySQL, jQuery, Bootstrap</b></li>
 
-<li align="left"> 📫 Reach me at: <b>rohitbhagat01010@gmail.com</b></li>
+<li align="left"> 📫 Reach me at: <b>cs19b038@smail.iitm.ac.in</b></li>
 
 <li align="left"> Technologies I am Familar with : </b></li><br/><br/>
 
